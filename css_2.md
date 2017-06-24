@@ -46,7 +46,7 @@ css
 #### 文本自动换行 `word-wrap`属性
 
 ![](images/css24.jpg)
-![](images/css24.jpg)
+![](images/css25.jpg)
 
 [参考链接，点我打开](http://www.cnblogs.com/2050/archive/2012/08/10/2632256.html)
 
